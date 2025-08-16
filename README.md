@@ -27,9 +27,9 @@ The project follows a **three-tier architecture**:
 
 ## 📸 Screenshots & 📽️ Demo Video
 
-👉 [Click here for Screenshots]()
+👉 [Click here for Screenshots](https://drive.google.com/drive/folders/1spxRlaY2_slwoQ4_uEbLNBWw_y8MaMEI?usp=sharing)
 
-👉 [Click here for Video]()
+👉 [Click here for Video](https://drive.google.com/drive/folders/1i92xU_yrGRVuaHrGbHQ9bSXwD0fE2E6q?usp=sharing)
 
 ---
 ---
